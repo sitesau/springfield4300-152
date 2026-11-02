@@ -1,0 +1,22 @@
+{
+  "wheel_id": 682,
+  "structure": "umbrella",
+  "slug": "springfield4300-152",
+  "project": "business-directory-springfield-e514bade56fa2d684c767fca3cbc1fad",
+  "parent_t1_ref": "springfield4300-010",
+  "node_role": "buffer",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "business directory springfield",
+  "intended_url": "https://sites-e470-2.web.app/business-directory-springfield-e514bade56fa2d684c767fca3cbc1fad/",
+  "tier": "T2",
+  "writeback_nonce": "092defe87e9e68ab",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/springfield4300-010/business-directory-springfield.html",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
